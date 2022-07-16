@@ -1,1 +1,1 @@
-print("hellp")
+print (divmod(5,2))
